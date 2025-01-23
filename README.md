@@ -25,7 +25,7 @@ A simple feedforward neural network implementation in Python. This project suppo
 
 Initialize the Network
 - To create a neural network with 4 input nodes, a hidden layer with 40 nodes using ReLU activation, and an output layer with 2 nodes using softmax activation:
-
+'''
 from nn import NeuralNetwork
 import numpy as np
 
@@ -54,3 +54,4 @@ for layer in network.layers:
     print(f"Weights:\n{weights}")
     print(f"Biases:\n{biases}")
 
+'''
