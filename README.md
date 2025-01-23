@@ -1,3 +1,7 @@
+Ah, understood! If you want to display images that are already in your GitHub repository, you can link to them using Markdown syntax. Here's how you can modify your README to include the images:
+
+---
+
 # Neural Network Implementation
 
 A simple feedforward neural network implementation in Python. This project supports customizable layer structures and activation functions with backpropagation for training.
@@ -83,4 +87,15 @@ for layer in network.layers:
 
 ---
 
-This structure should make it easier for others to follow the setup and usage of your neural network implementation!
+## Images of Network Learning
+
+Here are some images showing the neural network learning:
+
+![Training Progress 1](https://github.com/petreleven/custom-neural_network/blob/main/669.png)
+*Training step 1: Initial weights and biases.*
+
+![Training Progress 2](https://github.com/petreleven/custom-neural_network/blob/main/learning.gif)
+
+
+---
+
